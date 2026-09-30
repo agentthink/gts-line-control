@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtsTest", "GtsTest\GtsTest.csproj", "{EF6CD485-BDBC-4D8C-9EE4-3823DFB954C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtsUpdater", "..\GtsUpdater\GtsUpdater.csproj", "{0DFEFFAE-E0D1-45DC-9316-E9089E2972AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF6CD485-BDBC-4D8C-9EE4-3823DFB954C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6CD485-BDBC-4D8C-9EE4-3823DFB954C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6CD485-BDBC-4D8C-9EE4-3823DFB954C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6CD485-BDBC-4D8C-9EE4-3823DFB954C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFEFFAE-E0D1-45DC-9316-E9089E2972AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFEFFAE-E0D1-45DC-9316-E9089E2972AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFEFFAE-E0D1-45DC-9316-E9089E2972AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFEFFAE-E0D1-45DC-9316-E9089E2972AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654F191A-A8B6-473B-8A7B-45D553E88B3B}
+	EndGlobalSection
+EndGlobal

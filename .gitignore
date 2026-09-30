@@ -1,0 +1,28 @@
+# 编译输出
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# 数据库（包含用户密码）
+*.db
+*.db-shm
+*.db-wal
+
+# 日志
+Logs/
+VisionLogs/
+*.log
+
+# 配置文件（包含密码/IP等敏感信息）
+appsettings.json
+mes_config.json
+devices.json
+
+# 固高 SDK（版权原因，不能上传）
+gts.dll
+
+# NuGet
+packages/
+*.nupkg
